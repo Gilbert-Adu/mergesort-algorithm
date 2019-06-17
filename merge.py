@@ -32,7 +32,7 @@ def mergesort(array):
        j += 1
        k += 1
         
-    return array
+ return array
       
    
     
